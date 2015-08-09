@@ -6,7 +6,7 @@ Getting and Cleaning Data Course Project due Mon 24 Aug 12:30 am
 2. A tidy data set
 3. A code book describing each variable and its values in the tidy data set
 4. An explicit and exact recipe you used to go from 1 -> 2,3
-
+ 
 # The assignment
 You should create one R script called run_analysis.R that does the following: 
 1. Merges the training and the test sets to create one data set
